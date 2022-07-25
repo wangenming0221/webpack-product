@@ -1,0 +1,10 @@
+#忽略依赖库
+node_modules/
+
+#忽略编译输出文件夹
+dist/
+
+# 忽略编译器相关文件和文件夹
+/package-lock.json
+/yarn.lock
+
